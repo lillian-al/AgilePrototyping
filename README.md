@@ -5,7 +5,8 @@ The reverse engineering approach we used, particularly with my work on the struc
 Through this course, I’ve developed a deeper understanding of how biomimetic design and agile processes can push the boundaries of architecture, making it not just a field focused on solving today's problems, but one capable of anticipating and responding to the challenges of tomorrow.
 
 #### How I might apply this in the future
-...
+In the future, I plan to apply the Agile Prototyping methodology to create flexible and innovative designs. For example, I can use growth stages to design structural systems that adapt to environmental conditions, such as varying wind loads or seismic activity, by incorporating materials or configurations that respond dynamically to these forces. Biomimetic principles can inspire sustainable solutions, such as lightweight yet strong frameworks modeled on natural structures like bones or shells.
+This approach will be particularly valuable for addressing challenges like climate change or designing in uncertain environments. Additionally, the reverse engineering mindset will help me collaborate effectively across disciplines, ensuring that different building systems work together to create adaptable and future-ready solutions.
 
 #### Further challenges that the Agile Prototyping Methodology raises that need to be solved
 ...
