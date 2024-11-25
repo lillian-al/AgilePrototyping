@@ -12,5 +12,6 @@ This approach will be particularly valuable for addressing challenges like clima
 While the Agile Prototyping methodology offers great potential, there are several challenges that still need to be addressed. One major challenge is how to balance adaptability with long-term stability. Agile systems encourage continuous iteration and change, but in architecture and construction, there are often constraints like building codes, budgets, and structural integrity that may limit how flexible these designs can be in the long term.
 Another challenge is scaling the approach. While Agile Prototyping works well for smaller-scale projects or conceptual designs, applying it to large, complex buildings or urban planning presents difficulties in coordinating the rapid iteration of multiple systems at once, especially when these systems must integrate seamlessly.
 
+Addressing these challenges will help refine and optimize the Agile Prototyping methodology, making it more practical and effective for the future of the built environment.
 
 
