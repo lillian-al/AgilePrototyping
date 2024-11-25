@@ -7,7 +7,8 @@ Through this course, I’ve developed a deeper understanding of how biomimetic d
 What you have learnt in the course
 
 
-How you might apply this in the future
+**How I might apply this in the future**
+...
 
-
-Further challenges that the Agile Prototyping Methodology raises that need to be solved.
+**Further challenges that the Agile Prototyping Methodology raises that need to be solved**
+...
