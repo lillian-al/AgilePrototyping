@@ -9,4 +9,8 @@ In the future, I plan to apply the Agile Prototyping methodology to create flexi
 This approach will be particularly valuable for addressing challenges like climate change or designing in uncertain environments. Additionally, the reverse engineering mindset will help me collaborate effectively across disciplines, ensuring that different building systems work together to create adaptable and future-ready solutions.
 
 #### Further challenges that the Agile Prototyping Methodology raises that need to be solved
-...
+While the Agile Prototyping methodology offers great potential, there are several challenges that still need to be addressed. One major challenge is how to balance adaptability with long-term stability. Agile systems encourage continuous iteration and change, but in architecture and construction, there are often constraints like building codes, budgets, and structural integrity that may limit how flexible these designs can be in the long term.
+Another challenge is scaling the approach. While Agile Prototyping works well for smaller-scale projects or conceptual designs, applying it to large, complex buildings or urban planning presents difficulties in coordinating the rapid iteration of multiple systems at once, especially when these systems must integrate seamlessly.
+
+
+
