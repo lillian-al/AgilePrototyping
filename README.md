@@ -4,8 +4,8 @@ The reverse engineering approach we used, particularly with my work on the struc
 
 Through this course, I’ve developed a deeper understanding of how biomimetic design and agile processes can push the boundaries of architecture, making it not just a field focused on solving today's problems, but one capable of anticipating and responding to the challenges of tomorrow.
 
-### How I might apply this in the future
+#### How I might apply this in the future
 ...
 
-### Further challenges that the Agile Prototyping Methodology raises that need to be solved
+#### Further challenges that the Agile Prototyping Methodology raises that need to be solved
 ...
