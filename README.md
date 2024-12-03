@@ -27,3 +27,41 @@ Addressing these challenges will help refine and optimize the Agile Prototyping 
 </details>
 
 
+<details>
+  <summary><strong>Louiza's reflection</strong></summary>
+...
+
+</details>
+
+
+<details>
+  <summary><strong>Ali's reflection</strong></summary>
+...
+
+</details>
+
+
+<details>
+  <summary><strong>Mathias' reflection</strong></summary>
+...
+
+</details>
+
+
+<details>
+  <summary><strong>Monssef's reflection</strong></summary>
+...
+
+</details>
+
+
+
+<details>
+  <summary><strong>Danish's reflection</strong></summary>
+...
+
+</details>
+
+
+
+
