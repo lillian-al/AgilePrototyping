@@ -55,7 +55,25 @@ Applying these projects to Advanced Building Design 2025 may face several limita
 
 <details>
   <summary><strong>Louiza's reflection</strong></summary>
-...
+
+  #### What have you learned in the course?
+I have learned how Agile Prototyping focuses on teamwork, flexibility, and working step by step to improve designs. The course showed me how to use Agile principles in architecture, like creating adaptable building systems that can change based on the project’s needs. I also learned how important communication and collaboration are, especially by working closely with teammates and clients. Another key lesson was reverse engineering, where we study existing buildings to figure out their systems and features so we can improve them or create something new.
+
+#### How might you apply this in the future?
+I can use Agile Prototyping in future projects, especially when working with teams from different fields like engineering, design, and construction. It will help me make flexible designs that adjust to changes and involve clients early to get their feedback. I could also use it to create new systems for sustainability and architecture. The reverse engineering skills will help me analyze existing designs to find what works best and use those ideas in new projects.
+
+#### Further challenges raised by the Agile Prototyping Methodology
+One big challenge is getting different experts, like architects and engineers, to work together smoothly since they may have different ways of working. Breaking down existing building systems into simple parts while still keeping important details can also be tricky. For bigger projects, it might be hard to keep things flexible while managing complexity. Lastly, managing time is important to avoid overloading the team and to keep everyone motivated.
+Further challenges in Common Building Growth Stages
+It is not easy to create a set of growth stages that work for all types of buildings because every project is unique. Translating ideas from nature, like how things grow, into building design can be complicated. Each stage needs to be tested to make sure it fits the building’s purpose and can adapt if needed, which takes time and effort. Also, spreading resources across the stages without running out or overloading any one stage is a big challenge.
+
+#### Advantages of the Common Building Growth Stages
+These stages give a clear plan to follow, making it easier to handle complicated projects. They also help bring different fields, like architecture and engineering, together into one process. The stages are flexible enough to adapt to changes or new needs, which is useful for future projects. They also help teams learn and improve because each stage provides new insights that can be used in later projects.
+
+#### Limitations/challenges in applying the projects to Advanced Building Design 2025
+The project only provides a limited understanding of the principle of Agile Prototyping Methodology. It would be time consuming to understand the common growth stages of the building and adapt it to advanced structures. Instead of using the very limited time frame to create the building, incl designing, calculating and projecting, the time would instead be used to understand the common Methodology.
+By solving these challenges and using the benefits of Agile Prototyping, we can make innovative and flexible designs that are useful in real-world architectural projects.
+
 
 </details>
 
