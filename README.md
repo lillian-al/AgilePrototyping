@@ -1,7 +1,13 @@
 # Agile Prototyping Reflection
 <details>
   <summary><strong>Group reflection</strong></summary>
-We ...
+As a group, we focused on incorporating the developmental stages of building knowledge into the structure of our board game. By creating cards that represent different building systems in their inital stage, middle stage, and final stage, we ensured that players gradually encounter and engage with the growth of a building. Each card presents a focused question or scenario that helps players understand the function and relevance of a specific system. This setup mirrors the developmental process of learning, where foundational knowledge is built upon step-by-step as players progress in the game.
+
+One of the biggest advantages of our idea is how it transforms learning into an engaging, interactive experience. The use of a board game format, combined with dice rolls and movement, makes the learning process dynamic and enjoyable, appealing to a variety of learners. Additionally, the game encourages knowledge retention through repetition and gamified challenges. Players encounter questions that not only test their understanding but also reinforce key concepts over time. The variety of systems covered, ensures a holistic approach, helping participants see the interconnectedness of different building systems.
+
+The game also promotes healthy competition, motivating players to improve their understanding of architectural systems in a fun and low-pressure environment.
+
+
 
 </details>
   
