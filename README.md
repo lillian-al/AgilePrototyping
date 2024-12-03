@@ -38,6 +38,17 @@ Another challenge is scaling the approach. While Agile Prototyping works well fo
 
 Addressing these challenges will help refine and optimize the Agile Prototyping methodology, making it more practical and effective for the future of the built environment.
 
+#### Further Challenges in the Common Building Growth Stages
+The concept of Common Building Growth Stages introduces its own challenges, particularly in defining clear, functional stages that apply universally to different types of buildings and systems. Aligning these stages across multiple disciplines, such as structural, mechanical, and environmental systems, can create complexity in ensuring they integrate seamlessly. Additionally, the sequential nature of growth stages might not align well with projects requiring non-linear or overlapping workflows.
+
+
+#### Advantages of the Common Building Growth Stages
+The Common Building Growth Stages provide a structured framework for designing adaptable systems. By breaking a design into defined stages, it becomes easier to identify key components and how they evolve over time. This method facilitates collaboration across disciplines, as it establishes a common language and process for integrating various systems. Additionally, it encourages forward-thinking design by emphasizing how a building can adapt and grow in response to future demands or external pressures.
+
+#### Limitations/Challenges in Applying the Projects to Advanced Building Design 2025
+Applying these projects to Advanced Building Design 2025 may face several limitations. For example, the iterative and experimental nature of Agile Prototyping might conflict with the tighter time constraints and deliverable-focused expectations of the course. Integrating Agile Prototyping into the course may require balancing its innovative potential with practical application and measurable results to align with course goals.
+
+
 
 </details>
 
