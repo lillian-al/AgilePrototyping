@@ -3,10 +3,18 @@
   <summary><strong>Group reflection</strong></summary>
 As a group, we focused on incorporating the developmental stages of building knowledge into the structure of our board game. By creating cards that represent different building systems in their inital stage, middle stage, and final stage, we ensured that players gradually encounter and engage with the growth of a building. Each card presents a focused question or scenario that helps players understand the function and relevance of a specific system. This setup mirrors the developmental process of learning, where foundational knowledge is built upon step-by-step as players progress in the game.
 
+
 One of the biggest advantages of our idea is how it transforms learning into an engaging, interactive experience. The use of a board game format, combined with dice rolls and movement, makes the learning process dynamic and enjoyable, appealing to a variety of learners. Additionally, the game encourages knowledge retention through repetition and gamified challenges. Players encounter questions that not only test their understanding but also reinforce key concepts over time. The variety of systems covered, ensures a holistic approach, helping participants see the interconnectedness of different building systems.
 
 The game also promotes healthy competition, motivating players to improve their understanding of architectural systems in a fun and low-pressure environment.
 
+
+Through reflection, we recognized a few limitations in our board game:
+
+- **Depth of Content:** While we aimed to cover a broad range of building systems, we acknowledge that the questions on the cards may not delve deeply enough into certain topics, which could limit the learning experience for advanced players.
+- **Replayability:** With a fixed set of cards, the game might become repetitive after a few rounds, reducing its long-term engagement value.
+- **Time Constraints:** The game may require a significant time investment, which could make it less appealing for players with tight schedules.
+Inclusivity of Difficulty Levels: We realized that the questions might not be equally accessible to players with varying levels of knowledge, potentially alienating beginners or boring experts.
 
 
 </details>
