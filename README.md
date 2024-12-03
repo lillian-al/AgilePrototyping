@@ -80,7 +80,24 @@ By solving these challenges and using the benefits of Agile Prototyping, we can 
 
 <details>
   <summary><strong>Ali's reflection</strong></summary>
-...
+
+  ##### What you have learnt in the course?
+This course has been very giving in terms of understanding the process of developing, growing and making building a reality. The course has shown in an abstract manner how challenging it can be to incorporate several disciplines, because of different viewpoints, perspectives and interpretations.
+
+#### How you might apply this in the future?
+Knowing the difficulty in incorporating different disciplines it will be an advantage to be aware and perhaps solve the challenge in advance by understanding the viewpoint of the other disciplines and assess the clashes that could occur in advance.
+
+#### Further challenges that the Agile Prototyping Methodology raises that need to be solved?
+Improving the corporation of several disciplines and understanding the challenges of each, to develop solutions in advance and to avoid clashes and delays due to unforeseen misunderstandings later on in the critical part of the project.
+
+#### Further challenges in the Common Building Growth Stages ?
+The common building growth stage may not be so common, and that could raise the challenge of some systems having a different plan or perspective on how to grow a building that could interrupt the development of another system.
+
+#### Advantages of the Common Building Growth Stages?
+The advantages of common building growth stages are that there is a universal understanding of the stages and process of growing a building or a project, through all the systems. This basic understanding and commonality will create a more homogeneous and effective process.
+
+#### What limitations/challenges that are in applying the projects to the course Advanced Building Design 2025?
+The challenges will possibly be the communication and understanding the different aspects of other systems work method and the interference it has with other systems. A challenge will also be, if wanting to understand more the challenges of all the systems, it would also be time consuming, which results in perhaps being behind on the time schedule, and then the question arises if it is worth it and if the time spent can be retrieved through the more common and fruitful methodology?
 
 </details>
 
