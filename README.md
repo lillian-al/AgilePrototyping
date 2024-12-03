@@ -81,7 +81,7 @@ By solving these challenges and using the benefits of Agile Prototyping, we can 
 <details>
   <summary><strong>Ali's reflection</strong></summary>
 
-  ##### What you have learnt in the course?
+  #### What you have learnt in the course?
 This course has been very giving in terms of understanding the process of developing, growing and making building a reality. The course has shown in an abstract manner how challenging it can be to incorporate several disciplines, because of different viewpoints, perspectives and interpretations.
 
 #### How you might apply this in the future?
