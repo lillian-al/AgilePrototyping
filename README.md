@@ -1,5 +1,10 @@
 # Agile Prototyping Reflection
+<details>
+  <summary><strong>Group reflection</strong></summary>
+We ...
 
+<details>
+  
 <details>
   <summary><strong>Lillian's reflection</strong></summary>
 
