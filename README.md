@@ -128,7 +128,24 @@ The time required to fully grasp Agile Prototyping and growth stages could detra
 
 <details>
   <summary><strong>Monssef's reflection</strong></summary>
-...
+
+  #### What you have learnt in the course?
+This course gave me a different understanding of how buildings are made and somehow, it made me realize that connecting the system isn’t all that easy to make. Looking back at the course, I learned many ways of different perspectives of how we can progress the building efficiencies by taking some experience from nature. The concept of "building growth" was particularly eye-opening. It emphasized that buildings are not static objects but are constantly subject to change and evolution, driven by shifting environmental, social, and technological factors. I learned how to identify and manipulate the core "genes" or characteristics that define a system’s functionality and adaptability. This approach helped me understand how small design changes can have a effect on the overall performance of a building.
+
+#### How you might apply this in the future?
+I plan to apply the knowledge and skills gained from this course across both my academic and professional pursuits, as well as in everyday problem-solving. In future courses, specifically those focused on architectural design, engineering, and sustainability, I will resume the concept of agile prototyping to develop more adaptable and innovative solutions.
+
+#### Further challenges that the Agile Prototyping Methodology raises that need to be solved?
+It is indeed a problem or challenge to obtain a form of communication or commissioning, when the people building or designing the project can end with the same goal. However, tools for better communication can be reached when arranging a system, that can reach for the individual person or group in the project. The evolution of the building stage can pe troublesome in some cases, but that’s where innovation needs to be implemented through the hole process, which can be the key part of a successful project.
+
+#### Further challenges in the Common Building Growth Stages?
+Buildings in projects are relatively challenging and can create issues with the schedule. Many constructions follow the standards for the different stages, but it can be difficult to achieve a satisfactory outcome. While the common building growth stages provide a structured framework, successfully navigating these stages requires proactive management, flexibility, and constant communication among all stakeholders to overcome the inevitable challenges and deliver a satisfactory final project.
+5.	Advantages of the Common Building Growth Stages?
+The common building growth stages provide a clear and structured framework that helps the construction process from start to finish. By breaking the project into phases - such as planning, design, construction, and handover, it becomes easier to manage tasks, resources, and timelines. This structure improves coordination between different teams, ensuring that architects, engineers, and contractors work in sync. It also allows for better risk management, as potential issues can be identified and addressed at each stage before they escalate. In the end, this approach leads to a more efficient and predictable project workflow, reducing the probability of delays and cost.
+
+#### What limitations/challenges that are in applying the projects to the course Advanced Building Design 2025 ?
+By applying the Agile Prototype course to Advanced Building Design 2025, the freedom of the project will likely be more limited. In the Agile Prototype course, there was significant flexibility to use adaptive methods and draw inspiration from how nature responds to different situations. In contrast, the Advanced Building Design course will likely have specific requirements and regulations regarding how the building must be designed and constructed, which introduces certain limitations. However, having a defined framework or set of guidelines can be beneficial, as it provides clarity on the building’s intended functions and requirements, offering direction for the project. Still, it will be challenging to meet the regulations and standards set throughout the process.
+
 
 </details>
 
