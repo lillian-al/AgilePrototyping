@@ -153,7 +153,24 @@ By applying the Agile Prototype course to Advanced Building Design 2025, the fre
 
 <details>
   <summary><strong>Danish's reflection</strong></summary>
-...
+
+  #### What you have learnt in the course?
+This course has shown me how different systems need to work together and what processes are important to consider before making big decisions about my own system, which is services. The first assignment, How to Grow a Cup, also taught me that there are lots of ways to approach a single process and that there isn’t always just one right way to do things.
+
+#### How you might apply this in the future?
+In the future, this knowledge will definitely help me in my working life, as I now have a much better understanding of the overall building development process. It’s not just about individual systems but how everything comes together in the bigger picture. On top of that, it has really expanded my creative thinking, allowing me to approach challenges in more innovative and flexible ways. 
+
+#### Further challenges that the Agile Prototyping Methodology raises that need to be solved?
+The lack of knowledge about systems outside their own expertise can pose a significant challenge during the building design process
+
+#### Further challenges in the Common Building Growth Stages?
+One of the biggest challenges is when different systems collide together. It takes careful planning and coordination to make sure both systems meet their requirements without causing any conflicts or issues. This often requires good communication and teamwork to ensure everything runs smoothly. 
+
+#### Advantages of the Common Building Growth Stages?
+The Common Building Growth Stages give the project a clear structure, making it easier to manage from planning to completion. This helps with organizing resources, setting timelines, and tracking progress, ensuring the project stays on track and within budget.
+
+#### What limitations/challenges that are in applying the projects to the course Advanced Building Design 2025 ?
+Because the course on advanced building design is a more detailed oriented course where each system is broken down into very specific elements for their area. It will be difficult to implement these things from this course into advanced building design, as it don't necessarily provide further understanding of each student's own system
 
 </details>
 
