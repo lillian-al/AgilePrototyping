@@ -104,7 +104,24 @@ The challenges will possibly be the communication and understanding the differen
 
 <details>
   <summary><strong>Mathias' reflection</strong></summary>
-...
+
+  #### What have you learned in the course?
+The course has taught me how to use Agile Prototyping to develop and refine building systems through a flexible, iterative process. I gained insights into the importance of collaboration and communication in tackling challenges across various disciplines. Reverse engineering was a key skill, helping me analyze existing systems to enhance or redesign them. The course also emphasized the value of adaptability in responding to changes during the design process. The course also taught me about biological principles, like analyzing "genes" in building systems, to create adaptable designs. Future-oriented tools helped me plan for long-term scenarios. This approach ensures designs are innovative, flexible, and prepared for future challenges.
+
+#### How might you apply this in the future?
+In future projects, I can use Agile Prototyping to improve teamwork and adaptability when working with interdisciplinary teams. The skills learned in reverse engineering will help me identify and implement improvements in existing systems. Applying biological principles, like analyzing the "genes" of building systems, can inspire innovative, adaptable designs. Using future-oriented methods, will allow me to anticipate challenges and align designs with long-term scenarios. This ensures my projects remain flexible and prepared for evolving requirements or constraints.
+
+#### Further challenges raised by the Agile Prototyping Methodology
+Coordinating between professionals from different fields can be difficult due to contrasting workflows and perspectives. Breaking complex building systems into manageable parts while retaining key details is another obstacle. Large projects often require balancing flexibility with the need to maintain clear deadlines and direction. Communication must be precise to avoid misinterpretation and delays, especially in interdisciplinary settings.
+
+#### Further challenges in the Common Building Growth Stages
+The growth stages might not suit every project, as different systems often have unique development needs. Translating biological growth principles into architectural processes can be technically demanding and may require specialized tools or knowledge. Testing each stage to ensure compatibility with the overall design adds complexity and requires significant time. Balancing resources and timelines between stages is a further challenge, particularly in larger, more dynamic projects. These challenges highlight the importance of customizing the framework to accommodate the specific goals and constraints of each project.
+
+#### Advantages of the Common Building Growth Stages
+This approach provides a clear structure, making it easier to manage complex projects and ensure smoother collaboration. It creates a shared understanding between team members, fostering better alignment and communication. The stages are adaptable, allowing designs to evolve with new requirements or challenges, which is particularly useful in unpredictable contexts. Each stage offers insights and lessons that can be applied to refine both current and future projects.
+
+#### Limitations/challenges in applying the projects to Advanced Building Design 2025
+The time required to fully grasp Agile Prototyping and growth stages could detract from practical design work. Miscommunication between disciplines may complicate progress and create delays. Applying these methods to advanced structures with strict timelines may prove overwhelming without effective management tools. Balancing the theoretical focus with the practical demands of the project is also a challenge, as too much emphasis on methodology can hinder execution. Streamlining the integration of these methodologies while maintaining efficiency is essential to address these limitations effectively.
 
 </details>
 
